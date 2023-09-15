@@ -1,0 +1,28 @@
+h1{color: black}
+
+
+.fade{
+    padding-left: 10px;
+    transition: 3s;
+    color: aqua;
+    color: blanchedalmond;
+color: aqua;
+    
+
+}
+
+.fade:hover{
+    color: black;
+    transition: 3s;
+}
+
+.fade:focus
+.fade:active{
+    background-color: blue;
+    transition: 3s;
+}
+
+.link{
+    color: black;
+    padding-left: 100px;
+}
