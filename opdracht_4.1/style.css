@@ -1,6 +1,6 @@
 h1{
  font-size: 24px; 
- color: blue; 
+ color: red; 
  font-weight: bold;
  font-style: italic;
 }
@@ -27,4 +27,19 @@ p{
 a{
     color:  #8A2BE2;
     text-decoration: none;
+}
+
+.poopie{
+    background-image: url(./achtegrond\ afbeelding\ zelda.jpg);
+    background-repeat: no-repeat;
+background-size: cover;
+width: 100%;
+height: 33vh;
+background-position: center;
+}
+
+
+article{
+    border: 2px solid black;
+    border-radius: 10px;
 }
