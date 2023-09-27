@@ -8,6 +8,8 @@
   }
   body {
     font-family: "Goldman", cursive;
+    min-height: 100vh;
+    position: relative;
   }
   
   nav {
@@ -20,6 +22,7 @@
     margin: auto;
     background: #18810f;
     justify-content: space-between;
+    position: ;
   }
   nav ul {
     display: flex;
@@ -38,9 +41,23 @@
     width: 5vw;
   }
   
+  .logo{
+    font-size: 150%;
+  }
+  footer{
+    position: absolute; 
+    bottom: 0;
+    margin-left: 750px;
+  }
 
-  logo{
-    font size: 150%
+  h1{
+    position: fixed;
+margin-left: 750px;
+  }
+
+  p{
+    float: left;
+  margin-left: 900px;
   }
   
   
