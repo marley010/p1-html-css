@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.flexcontainer {
+    background-color: grey;
+    display: flex;
+   gap: irem;
+   justify-content: ; 
+   /* align-items: center; */
+   height: 100vh;
+}
+
+.item {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    color: white;
+}
